@@ -11,3 +11,5 @@ Uninstall Microsoft Edge
 
 
 Big thanks to @DoubleLabyrinth
+
+Any donations are welcome at ERC-20 0xD8cA388d7DB2b05193FF5ACC5A28804f22ad6095
