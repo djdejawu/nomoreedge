@@ -1,0 +1,2 @@
+# nomoreedge
+Uninstall Microsoft Edge
